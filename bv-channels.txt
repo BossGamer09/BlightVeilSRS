@@ -1,0 +1,24 @@
+---- Current Operation Frequencies ----|1.0
+
+---- Command Frequencies ----|
+Air Command          125.00|125.00
+
+---- Legion Frequencies ----|
+ Legion 1  126.10|126.10
+ Legion 2  126.20|126.20
+ Legion 3  126.30|126.30
+
+---- Knights Frequencies ----|1.0
+Knights 1   127.10|127.10
+Knights 2   127.20|127.20
+Knights 3   127.30|127.30
+
+---- Gunner Frequencies ----|1.0
+1           120.10|120.10
+2           120.30|120.30
+3           120.50|120.50
+4           120.60|120.60
+5           125.10|125.10
+
+---- Always Listen Frequencies ----|1.0
+Guard       121.50|121.50
