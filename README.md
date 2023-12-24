@@ -1,6 +1,7 @@
 BlightVeil SRS Files
 
 Download The File 
+Run the SR-ClientRadion.exe
 Head to the #srs-register channel
 Type /registersrs
 Copy and paste the Username & Password it gives you into the USER&Pass Boxes 
